@@ -7,7 +7,8 @@ Progress : The project is incomplete . FreeRTOS is implementable , evkbimxrt1050
 
 *To download (1) follow resource video
 
-Following error is encountered.
+Following error is encountered
+
 ```bash
 Program stopped.
 0x60008394 in ShiftRows (state=0xe3df94dc) at ../source/aes.c:294
