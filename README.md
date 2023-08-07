@@ -8,4 +8,4 @@ Progress : The project is incomplete . FreeRTOS is implementable ...
 ## Directions
 
 ## Resources
-[Setting Up Environment and Project in MCUXpresso IDE](https://www.youtube.com/watch?v=h94HkUv9Iq4&t=622s)
+[Setting Up Environment and Project in MCUXpresso IDE](https://youtu.be/h94HkUv9Iq4)
