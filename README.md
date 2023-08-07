@@ -3,7 +3,7 @@
 
 ## Project Description
 
-Progress : The project is incomplete . FreeRTOS is implementable , evkbimxrt1050_freertos_hello_practiceexample (1) is built and run successfully in board. Code provided in reporsitory is modified from (1) , it can be built but does not run during debug sessions.
+Progress : The project is incomplete . FreeRTOS is implementable , evkbimxrt1050_freertos_hello_practiceexample (1) is built and run successfully in board. Code provided in repository is modified from (1) , it can be built but does not run during debug sessions.
 
 Following is the error encountered.
 ```bash
