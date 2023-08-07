@@ -17,8 +17,9 @@ Objective : Collect traces,plaintext and ciphertext for Side Channel Attack on A
 
 ## Directions
 Buil and run
+
 ### - Setting up MCUXpresso ide
-1.
+1.jsj
 
 ### - Testing project
 1. Run [send_PT_recieve_CT.py](https://github.com/TIrfana/NXP_IMXRT1050-EVKB_FreeRTOS/blob/main/For_Com/send_PT_recieve_CT.py) to test whether encryption is taking place
