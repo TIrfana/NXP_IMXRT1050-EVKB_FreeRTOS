@@ -16,6 +16,7 @@ Note: automatically using hardware breakpoints for read-only addresses.
 Objective : Collect traces,plaintext and ciphertext for Side Channel Attack on AES128 encryption algorithm in ECB mode.The computer collects traces,plaintext and ciphertext for Side Channel Attack.
 
 ## Directions
+Buil and run
 
 ## Resources
 [Setting Up Environment and Project in MCUXpresso IDE](https://youtu.be/h94HkUv9Iq4)
