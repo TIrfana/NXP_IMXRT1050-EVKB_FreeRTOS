@@ -2,7 +2,6 @@
 
 
 ## Project Description
-Objective : Collect traces,plaintext and ciphertext for Side Channel Attack on AES128 encryption algorithm in ECB mode.The computer collects traces,plaintext and ciphertext for Side Channel Attack.
 
 Progress : The project is incomplete . FreeRTOS is implementable , evkbimxrt1050_freertos_hello_practiceexample (1) is built and run successfully in board. Code provided in reporsitory is modified from (1) , it can be built but does not run during debug sessions.
 
@@ -13,6 +12,8 @@ Program stopped.
 294	    (*state)[0][3] = (*state)[3][3];
 Note: automatically using hardware breakpoints for read-only addresses.
 ```
+
+Objective : Collect traces,plaintext and ciphertext for Side Channel Attack on AES128 encryption algorithm in ECB mode.The computer collects traces,plaintext and ciphertext for Side Channel Attack.
 
 ## Directions
 
